@@ -1,0 +1,2 @@
+# recetario
+trabajo en django
